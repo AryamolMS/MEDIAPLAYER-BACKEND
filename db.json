@@ -1,0 +1,67 @@
+{
+  "video": [
+    {
+      "id": "1",
+      "caption": "Heereye",
+      "url": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202307/dulquer_salmaan_heeriye_0-sixteen_nine.jpg?VersionId=2TDoY2hK.NlLM_XeUgb.Q64vnd17OEWt",
+      "embdLink": "",
+      "embedLink": "https://www.youtube.com/embed/RLzC55ai0eo"
+    },
+    {
+      "id": "3",
+      "caption": "King of kotha",
+      "url": "https://th-i.thgim.com/public/entertainment/movies/msi0m0/article67220995.ece/alternates/FREE_1200/1920%20x%201080%20couple.jpg",
+      "embedLink": "https://www.youtube.com/embed/VzT2xurZrbI"
+    },
+    {
+      "id": "5",
+      "caption": "Jawan",
+      "url": "https://www.hindustantimes.com/ht-img/img/2023/09/15/1600x900/jawan_box_office_collection_1694753211852_1694753212126.jpeg",
+      "embedLink": "https://www.youtube.com/embed/m3OtL4peEWU"
+    },
+    {
+      "id": "11",
+      "caption": "Ariyathe Ninayathe",
+      "url": "https://static.toiimg.com/thumb/msid-61162398,width-400,resizemode-4/61162398.jpg",
+      "embedLink": "https://www.youtube.com/embed/3ElqMZ8k8zI"
+    }
+  ],
+  "category": [
+    {
+      "Categoryname": "Hindi",
+      "allVideos": [],
+      "id": 2
+    },
+    {
+      "Categoryname": "Malayalam",
+      "allVideos": [],
+      "id": 3
+    }
+  ],
+  "history": [
+    {
+      "caption": "King of kotha",
+      "embedLink": "https://www.youtube.com/embed/VzT2xurZrbI",
+      "timestamp": "08/11/2023, 11:23:06",
+      "id": 1
+    },
+    {
+      "caption": "King of kotha",
+      "embedLink": "https://www.youtube.com/embed/VzT2xurZrbI",
+      "timestamp": "08/11/2023, 11:23:37",
+      "id": 2
+    },
+    {
+      "caption": "Ariyathe Ninayathe",
+      "embedLink": "https://www.youtube.com/embed/3ElqMZ8k8zI",
+      "timestamp": "08/11/2023, 11:23:40",
+      "id": 3
+    },
+    {
+      "caption": "Ariyathe Ninayathe",
+      "embedLink": "https://www.youtube.com/embed/3ElqMZ8k8zI",
+      "timestamp": "08/11/2023, 12:50:59",
+      "id": 4
+    }
+  ]
+}
